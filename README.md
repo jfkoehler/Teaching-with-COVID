@@ -6,6 +6,6 @@ Here are some materials we put together in my classes that use the coronavirus a
   - [YouTube Videos](https://www.youtube.com/playlist?list=PLUCTTwyv9AdUQPb6ti9FVX9fmH-mXYkAO)
   - [Code](flask_app/)
 
-- [Mathematical Models and the Coronavirus](): We walk through some basic models of the coronavirus using conceptual idealizations like linear, quadratic, exponential, logistic, and the SIR model. We also explore the idea of developing a model from the data using Least Squares Regression considered classically and as a time series with moving averages, autoregressive models, and ARIMA models.
+- [Mathematical Models and the Coronavirus](mathematical_models/): We walk through some basic models of the coronavirus using conceptual idealizations like linear, quadratic, exponential, logistic, and the SIR model. We also explore the idea of developing a model from the data using Least Squares Regression considered classically and as a time series with moving averages, autoregressive models, and ARIMA models.
 
 - [The Discourse of the Coronavirus.](): Using a combination of social media API's, news api's, and some webscraped data we examine the language around the coronavirus with Natural Language Processing and Python.
